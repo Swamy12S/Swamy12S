@@ -56,7 +56,7 @@ RAG, LangSmith, Fine-Tuning,Transformers
 - 🤖 **AI Tutor at Outlier** — trained LLM models for factual reasoning  
 
 
-### 📬 Connect with Me
+### 📬 Connect with Me 
 <p align="left">
 <a href="https://www.linkedin.com/in/lavudya-swamy-a6bb6834a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Swamy12S" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
