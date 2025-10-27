@@ -1,4 +1,4 @@
-# Hi there 👋 I'm **Lavudya Swamy**  
+# 👋 I'm **Lavudya Swamy**  
 
 🎯 **Data Scientist | AI Engineer | Data Analyst | Data Engineer**
 
@@ -9,7 +9,7 @@ I specialize in building **end-to-end Machine Learning, Deep Learning, and Gener
 With a strong background in **Mathematics, Statistics, and Programming**, I focus on creating intelligent systems that solve real-world problems.
 
 ### 🧰 Technical Skills
-- 💻 **Languages:** Python,C, C++, SQL  
+- 💻 **Languages:** Python, C, C++, SQL,Power-Bi 
 - 🧠 **AI/ML:** scikit-learn, TensorFlow, Keras, XGBoost, NLP, Deep Learning,Machine Leaning
 - ⚙️ **Frameworks&Libraries:** FastAPI, LangChain, LangGraph, Streamlit, NumPy, Pandas, Pydantic,
 scikit-learn, XGBoost, Seaborn, Matplotlib, Keras, TensorFlow,
