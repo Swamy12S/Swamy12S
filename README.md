@@ -1,6 +1,6 @@
-# 👋 I'm **Lavudya Swamy**  
+ #                                                                    👋 I'm **Lavudya Swamy**  
 
-🎯 **Data Scientist | AI Engineer | Data Analyst | Data Engineer**
+                                               🎯 **Data Scientist | AI Engineer | Data Analyst | Data Engineer**
 
 ---
 ### 🧩 About Me
@@ -44,7 +44,7 @@ RAG, LangSmith, Fine-Tuning,Transformers
 - 🌿 I’m currently learning **Data Engineering and Cloud Deployments**
 - 🤝 I’m looking to collaborate on **Deep Learning & RAG-based projects**
 - 💬 Ask me about **Machine Learning, Data Science, FastAPI, and AWS**
-- 📫 Reach me at **msd24007@iiitl.ac.in**
+- 📫 Reach me at **lavudyaswamy4@gmail.com**
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning data into stories 📊
 
