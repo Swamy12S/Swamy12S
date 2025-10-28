@@ -19,11 +19,30 @@ scikit-learn, XGBoost, Seaborn, Matplotlib, Keras, TensorFlow,
 -  **Gen & Agentic AI:** LLM, LangChain, LangGraph,
 RAG, LangSmith, Fine-Tuning,Transformers
 
+## 🧠 Technical Stack
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+
+**Frameworks & Libraries:**  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Cloud Tools:**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-326CE5?style=for-the-badge&logo=pinecone&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
 
 
 
@@ -31,19 +50,15 @@ RAG, LangSmith, Fine-Tuning,Transformers
 
 
 ---
+## 💼 Key Projects
 
-### 🚀 Featured Projects
-- 🧬 [AI-Powered DeepFake Detection](https://github.com/Swamy12S/AI-powered-deepfake_detection)  
-  *Deep learning–based detection using XceptionNet to identify manipulated facial data.*
+| Project | Tech Stack | Description |
+|----------|-------------|-------------|
+| [🧩 RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning](https://github.com/Swamy12S/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning.git) | LangChain · LoRA · OpenAI · React · RAG | Developed a **Retrieval-Augmented Chatbot** fine-tuned with LoRA adapters for contextual, multi-turn conversations across customer support data. |
+| [⚙️ Finetuning_LLM_LORA_QLORA](https://github.com/Swamy12S/Finetuning_LLM_LORA_QLORA.git) | Python · PyTorch · QLoRA · PEFT · Transformers | Implemented **LoRA and QLoRA-based fine-tuning** to efficiently adapt large LLMs using quantized weights for GPU optimization and high accuracy. |
+| [🏥 Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS](https://github.com/Swamy12S/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git) | LangChain · Pinecone · Flask · AWS · LLMs | Built an **AI-powered medical chatbot** capable of real-time medical Q&A and health guidance using vector retrieval and LLM integration. |
+| [🕵️ AI-powered-deepfake_detection](https://github.com/Swamy12S/AI-powered-deepfake_detection.git) | CNN · XceptionNet · Computer Vision · Python | Designed a **Deepfake Detection Model** using CNN-based architectures to classify fake vs real videos, enhancing media authenticity. |
 
-- 📈 [Stock Price Prediction](https://github.com/Swamy12S/stock-price-prediction)  
-  *Predicting stock trends using ML models integrated with Streamlit UI.*
-
-- 🌾 [Paddy Leaf Disease Prediction](https://github.com/Swamy12S/paddy_leaf_disease_prediction)  
-  *Real-time leaf disease detection API using CNN, FastAPI & DVC.*
-
-- 🏦 [Financial Insights Dashboard (Power BI)](https://github.com/Swamy12S/Financial-Insights-in-Banking-Data-using-Power-BI)  
-  *Interactive Power BI dashboard offering insights from banking data.*
 
 ---
 
