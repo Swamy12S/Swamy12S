@@ -1,6 +1,6 @@
- #                                                                    👋 I'm **Lavudya Swamy**  
+ # 👋 I'm **Lavudya Swamy**  
 
-                                               🎯 **Data Scientist | AI Engineer | Data Analyst | Data Engineer**
+ 🎯 **Data Scientist | AI Engineer | Data Analyst | Data Engineer**
 
 ---
 ### 🧩 About Me
