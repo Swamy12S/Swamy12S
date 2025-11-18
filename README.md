@@ -92,7 +92,8 @@ RAG, LangSmith, Fine-Tuning,Transformers
 - 🤖 **AI Tutor at Outlier** — trained LLM models for factual reasoning  
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies / Stats
+<!-- If trophy service is up, use this line -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Swamy12S&theme=algolia&no-frame=true&margin-w=10)
 
 
