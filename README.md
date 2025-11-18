@@ -20,6 +20,44 @@ scikit-learn, XGBoost, Seaborn, Matplotlib, Keras, TensorFlow,
 RAG, LangSmith, Fine-Tuning,Transformers
 
 ---
+## 🧰 Tech Stack
+
+<!-- Programming -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- ML & AI -->
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E00?style=for-the-badge)
+
+<!-- Data Viz -->
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C84?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+
+<!-- GenAI -->
+![LangChain](https://img.shields.io/badge/LangChain-1E90FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+<!-- Tools -->
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
+## ⭐ Top Contributed Repositories
+[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Swamy12S&limit=5&theme=algolia&combine_all_yearly_contributions=true)](https://github.com/Swamy12S)
 
 ---
 ## 💼 Key Projects
@@ -52,6 +90,10 @@ RAG, LangSmith, Fine-Tuning,Transformers
 - 🥇 **All India Rank 1265 in IIT JAM 2024 (Mathematical Statistics)**  
 - 🎓 **Teaching Assistant for Statistics — helped 90+ students**  
 - 🤖 **AI Tutor at Outlier** — trained LLM models for factual reasoning  
+
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=Swamy12S&theme=algolia&no-frame=true&margin-w=10)
 
 
 ### 📬 Connect with Me 
