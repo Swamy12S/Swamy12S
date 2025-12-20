@@ -60,14 +60,21 @@ RAG, LangSmith, Fine-Tuning,Transformers
 [![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Swamy12S&limit=5&theme=algolia&combine_all_yearly_contributions=true)](https://github.com/Swamy12S)
 
 ---
-## 💼 Key Projects
+
+## 📁 Key Projects
 
 | Project | Tech Stack | Description |
-|----------|-------------|-------------|
+|--------|-----------|-------------|
 | [🧩 RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning](https://github.com/Swamy12S/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning.git) | LangChain · LoRA · OpenAI · React · RAG | Developed a **Retrieval-Augmented Chatbot** fine-tuned with LoRA adapters for contextual, multi-turn conversations across customer support data. |
-| [⚙️ Finetuning_LLM_LORA_QLORA](https://github.com/Swamy12S/Finetuning_LLM_LORA_QLORA.git) | Python · PyTorch · QLoRA · PEFT · Transformers | Implemented **LoRA and QLoRA-based fine-tuning** to efficiently adapt large LLMs using quantized weights for GPU optimization and high accuracy. |
+| [⚙️ Finetuning_LLM_LORA_QLORA](https://github.com/Swamy12S/Finetuning_LLM_LORA_QLORA.git) | Python · PyTorch · QLoRA · PEFT · Transformers | Implemented **LoRA and QLoRA-based fine-tuning** to efficiently adapt large LLMs using quantized weights for GPU optimization and improved accuracy. |
 | [🏥 Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS](https://github.com/Swamy12S/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git) | LangChain · Pinecone · Flask · AWS · LLMs | Built an **AI-powered medical chatbot** capable of real-time medical Q&A and health guidance using vector retrieval and LLM integration. |
-| [🕵️ AI-powered-deepfake_detection](https://github.com/Swamy12S/AI-powered-deepfake_detection.git) | CNN · XceptionNet · Computer Vision · Python | Designed a **Deepfake Detection Model** using CNN-based architectures to classify fake vs real videos, enhancing media authenticity. |
+| [📈 LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/Swamy12S/LSTM-Neural-Network-for-Time-Series-Prediction.git) | LSTM · TensorFlow · Keras · Time Series | Developed a **time series forecasting system** using LSTM with generator-based training for memory efficiency, evaluated on sine wave and S&P 500 stock data. |
+| [🎬 Movie-Recommendation-System-Using-Machine-Learning-Django](https://github.com/Swamy12S/Movie-Recommendation-System-Using-Machine-Learning-Django.git) | Django · TF-IDF · SVD · scikit-learn | Built a **production-ready movie recommendation system** using content-based filtering with TF-IDF and dimensionality reduction, exposed via REST APIs. |
+| [🎥 Video-LLaMA-An-Instruction-tuned-Audio-Visual-Language-Model-for-Video-Understanding](https://github.com/Swamy12S/Video-LLaMA-An-Instruction-tuned-Audio-Visual-Language-Model-for-Video-Understanding.git) | PyTorch · Transformers · LoRA · QLoRA | Worked on an **instruction-tuned multimodal LLM** for video understanding by integrating visual, audio, and language representations. |
+| [📝 PyTorch-Sentiment-Analysis](https://github.com/Swamy12S/PyTorch-Sentiment-Analysis.git) | PyTorch · BERT · NLP | Implemented and compared NLP models from **Neural BoW to Transformer-based BERT**, achieving ~92% accuracy on IMDB sentiment classification. |
+| [🕵️ AI-powered-deepfake_detection](https://github.com/Swamy12S/AI-powered-deepfake_detection.git) | CNN · EfficientNet · Audio-Visual Fusion | Designed a **multi-modal deepfake detection system** combining video and audio cues with a Flask-based web interface. |
+| [🌾 AgriBot-main](https://github.com/Swamy12S/AgriBot-main.git) | LangChain · FAISS · HuggingFace · Flask | Built an **AI-powered agriculture assistant** using a multilingual RAG pipeline to answer farmer queries from PDF-based knowledge sources. |
+
 
 
 ---
